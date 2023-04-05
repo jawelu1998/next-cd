@@ -34,7 +34,7 @@ export default function Home() {
       <div className={styles.center}>
         <Image
           className={styles.logo}
-          src="/next.svg"
+          src="/IMG_9517.jpg"
           alt="Next.js Logo"
           width={180}
           height={37}
