@@ -66,6 +66,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
+
           <h2 className={inter.className}>
             Templates <span>-&gt;</span>
           </h2>
